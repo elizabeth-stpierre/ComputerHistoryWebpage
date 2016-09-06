@@ -1,1 +1,1 @@
-<title>Mobile Computing History</title>
+Mobile Computing Research Project
